@@ -1,0 +1,99 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "city",
+		"player1": "bf-glow",
+		"player2": "sol",
+		"player3": null,
+		"events": [
+			[
+				87843.1372549019,
+				[
+					[
+						"Sion",
+						"Shake",
+						""
+					]
+				]
+			],
+			[
+				89803.9215686274,
+				[
+					[
+						"Sion",
+						"Shake",
+						""
+					]
+				]
+			],
+			[
+				90980.3921568627,
+				[
+					[
+						"Sion",
+						"Shake",
+						""
+					]
+				]
+			],
+			[
+				93039.2156862745,
+				[
+					[
+						"Sion",
+						"Shake",
+						""
+					]
+				]
+			],
+			[
+				94117.6470588235,
+				[
+					[
+						"Sion",
+						"Shake",
+						""
+					]
+				]
+			],
+			[
+				96176.4705882353,
+				[
+					[
+						"Sion",
+						"Shake",
+						""
+					]
+				]
+			],
+			[
+				97254.9019607843,
+				[
+					[
+						"Sion",
+						"Shake",
+						""
+					]
+				]
+			],
+			[
+				99313.7254901961,
+				[
+					[
+						"Sion",
+						"Shake",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-glow",
+		"bpm": 153,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Godrays"
+	}
+}
