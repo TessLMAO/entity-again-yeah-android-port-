@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Parasite", "agoti", [146, 113, 253]],
+		["Shotgun-Shell", "aldryx", [146, 113, 253]],
+		["Godrays", "sol", [146, 113, 253]],
+		["Promenade", "niku", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "yoylospausados",
+
+	"storyName": "Entity Demo",
+	"weekBefore": "tutorial",
+	"weekName": "Entity Demo",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

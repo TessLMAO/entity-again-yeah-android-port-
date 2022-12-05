@@ -1,0 +1,26 @@
+{
+	"storyName": "",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "aldryx",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"venom-shred",
+			"aldryx",
+			[
+				146,
+				0,
+				0
+			]
+		]
+	],
+	"weekName": "AGOTI"
+}
