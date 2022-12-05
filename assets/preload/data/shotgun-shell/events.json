@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "market",
+		"player1": "bf",
+		"player2": "aldryx",
+		"player3": null,
+		"events": [
+			[
+				2666.66666666667,
+				[
+					[
+						"Set Cam Zoom",
+						"0.55",
+						"0.7"
+					]
+				]
+			],
+			[
+				5333.33333333333,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						"0.7"
+					]
+				]
+			],
+			[
+				8000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.55",
+						"0.7"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-market",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Shotgun-Shell"
+	}
+}
